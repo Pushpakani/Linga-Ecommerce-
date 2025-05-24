@@ -28,7 +28,7 @@ Welcome to **LINGA Ecommerce** – a sleek, modern, and fully responsive online 
 
 > _“A visual-first commerce platform made for elegance and speed”_
 
-![LINGA Ecommerce Preview](https://your-deployment-url.com/screenshot.png)
+LINGA WEBSITE LINK:  "[linga-ecommerce-7k8jowz0m-te7am.vercel.app ](https://linga-ecommerce.vercel.app/)"
 
 ---
 
